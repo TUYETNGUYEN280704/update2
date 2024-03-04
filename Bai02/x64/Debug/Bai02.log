@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\LENOVO\Desktop\LTHDT\BTH2_NguyenThiHongTuyet_22521637\Bai02\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Bai02.vcxproj -> C:\Users\LENOVO\Desktop\LTHDT\BTH2_NguyenThiHongTuyet_22521637\x64\Debug\Bai02.exe
